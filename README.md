@@ -42,3 +42,18 @@ Take a look at my social networks💻
   <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> 
 <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a>
 </p>
+
+<h2 align="center">
+  🥧Soft Skills Pie
+</h2> 
+
+```mermaid
+pie title S.S Preview
+    "Mentorship" : 2000
+    "Documentation Skills" : 2000
+    "Decision Making" : 2000
+    "Problem Solving" : 2000
+    "Stress Management" : 2000
+    "Goal Setting" : 2000
+    "Clear and Concise Expression" : 2000 
+```
