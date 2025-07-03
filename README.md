@@ -1,8 +1,8 @@
-<h1 align="center"> Olá👋 
+<h1 align="center"> Olá👋
 </h1>
 
 ```markdown
-i'm Breno Goularte, a focused back-end developer in the making and student of Systems Analysis and Development from Brasil.
+i'm Breno Goularte, a back-end developer in the making and student of Systems Analysis and Development from Brasil.
 ```
 
 - 🔭 I’m currently working as [***Internship in systems analysis and development***](https://ctrlplay.com.br/) and in the past i worked as a [**Storage Manager**](https://silkpress.mercadoshops.com.br/).
@@ -12,18 +12,18 @@ i'm Breno Goularte, a focused back-end developer in the making and student of Sy
 
 
 <h2 align="center"> 
-Take a look at my social networks💻
+💻Take a look at my social networks
 <p align="center">
-  <a href="" target="blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"            alt="" height="30" width="40" /></a>
-    <a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg"             alt="" height="30" width="40" /></a>
-      <a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"                 alt="" height="30" width="40" /></a>
-        <a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg"                 alt="eee" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/brenomelo-a0bb46215/" target="blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"            alt="" height="30"            width="40" /></a>
+    <a href="https://stackoverflow.com/users/30957002/breno-m-goularte" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg"             alt=""              height="30" width="40" /></a>
+      <a href="https://www.instagram.com/breno_m_goularte/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"                 alt="" height="30"                 width="40" /></a>
+        <a href="https://leetcode.com/u/breno-m-g/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg"                 alt="eee" height="30" width="40" /></a>
 </p>
 
 </h2> 
 
 <h3 align="center">
-  Languages and Tools for work🛠️
+  🛠️Languages and Tools for work
 </h3>
 
 <p align="center"> 
@@ -33,8 +33,8 @@ Take a look at my social networks💻
       <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"               alt="csharp" width="40" height="40"/> </a>
           <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40"                     height="40"/> </a> 
           <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-          <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java"                 width="40" height="40"/> </a>
-          <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img                                                                                     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
+          <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
+          <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img                                                                                                                                                                  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
           <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"                        alt="linux"            width="40" height="40"/> </a>
         <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"               alt="mysql" width="40" height="40"/> </a> 
       <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"                 alt="nodejs" width="40" height="40"/> </a>
@@ -48,6 +48,13 @@ Take a look at my social networks💻
 </h2> 
 
 ```mermaid
+---
+config:
+  pie:
+    textposition: 1.0
+  themevariables:
+    pieOuterStrokeWidth: "5px"
+---
 pie title S.S Preview
     "Mentorship" : 2000
     "Documentation Skills" : 2000
